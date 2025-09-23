@@ -39,10 +39,15 @@
 ## 🚀 Recent Projects
 <!-- Kamu bisa menampilkan proyek terbaru yang kamu kerjakan di sini -->
 <p align="left">
-  <a href="https://github.com/kiritocroft/Portofolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiritocroft&repo=project-name&theme=radical" alt="Portofolio" />
+  <!-- Proyek akan ditampilkan di sini setelah kamu membuat repository baru -->
+  <i>Segera hadir! Saya sedang mengerjakan beberapa proyek menarik yang akan ditampilkan di sini.</i>
+  
+  <!-- Contoh cara menampilkan proyek (aktifkan setelah membuat repository): -->
+  <!-- 
+  <a href="https://github.com/kiritocroft/nama-proyek">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiritocroft&repo=nama-proyek&theme=radical" alt="Nama Proyek" />
   </a>
-  <!-- Tambahkan proyek lain jika ada -->
+  -->
 </p>
 
 ## 🏆 GitHub Trophies
