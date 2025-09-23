@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning advanced programming techniques
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about anything tech-related
-- 📫 How to reach me: [Your preferred contact method]
+- 📫 How to reach me: nabilathaillah33@gmail.com
 - ⚡ Fun fact: [An interesting fact about yourself]
 
 ## 🛠️ My Tech Stack

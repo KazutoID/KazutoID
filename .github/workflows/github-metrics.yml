@@ -52,9 +52,3 @@ jobs:
           
           # Display your stargazers and watchers
           plugin_stargazers: yes
-          
-          # Display your latest tweets
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_user: your_twitter_username
-          plugin_tweets_limit: 2
