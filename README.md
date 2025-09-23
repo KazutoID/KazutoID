@@ -1,4 +1,4 @@
-# <div align="center">✨ Welcome to Kiritocroft's Portfolio ✨</div>
+# <div align="center">✨ Welcome to Kiritocroft's Github ✨</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E5494&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Creative+Problem+Solver;Lifelong+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
