@@ -46,6 +46,11 @@
   <!-- Tambahkan proyek lain jika ada -->
 </p>
 
+## 📈 GitHub Metrics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kiritocroft/kiritocroft/main/github-metrics.svg" alt="Metrics" width="100%" />
+</p>
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kiritocroft&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
