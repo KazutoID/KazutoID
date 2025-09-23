@@ -1,4 +1,4 @@
-name: 🐍 Generate Matrix Snake Animation
+name: 🐍 Generate Contribution Snake Animation
 
 on:
   schedule:
@@ -7,30 +7,30 @@ on:
 
 jobs:
   build:
-    name: 🔄 Matrix Snake Generation
+    name: Generate Contribution Snake
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: 📥 Checkout Repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
       
-      - name: 🐍 Generate Snake SVG
+      - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: kiritocroft
-          # Enhanced snake with custom colors and effects
+          # Elegant theme with purple accent (matching GitHub profile theme)
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00FF00&color_dots=#0D1117,#00FF00,#00FF00,#00FF00,#00FF00
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=6e5494&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
           
-      - name: 🚀 Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "🤖 Matrix Snake Animation Updated"
+          commit_message: "Update contribution snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
