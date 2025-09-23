@@ -1,0 +1,73 @@
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Thanks for opening your first issue here! 👋 Be sure to follow the issue template and provide as much information as possible.
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors
+newPRWelcomeComment: >
+  Thanks for opening this pull request! 🎉 Please make sure you've followed our contributing guidelines and code of conduct.
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+  Congrats on merging your first pull request! 🎊 We appreciate your contribution!
+
+# Configuration for request-info - https://github.com/behaviorbot/request-info
+
+# *Required* Comment to reply with
+requestInfoReplyComment: >
+  We would appreciate it if you could provide more information about this issue/PR.
+
+# *OPTIONAL* Label to be added to Issues and Pull Requests with insufficient information
+requestInfoLabelToAdd: needs-more-info
+
+# Configuration for sentiment-bot - https://github.com/behaviorbot/sentiment-bot
+
+# *Required* Comment to reply with
+sentimentBotReplyComment: >
+  Please be sure to review our Code of Conduct and be respectful to other users.
+
+# Configuration for lock-threads - https://github.com/dessant/lock-threads
+
+# Number of days of inactivity before a closed issue or pull request is locked
+daysUntilLock: 60
+
+# Issues with these labels will not be locked
+exemptLabels:
+  - no-locking
+  - pinned
+  - security
+
+# Label to add before locking, such as `outdated`. Set to `false` to disable
+lockLabel: outdated
+
+# Comment to post before locking. Set to `false` to disable
+lockComment: >
+  This thread has been automatically locked due to inactivity. Please open a new issue if you're encountering a similar or related problem.
+
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for probot-stale - https://github.com/probot/stale
+
+# Number of days of inactivity before an issue becomes stale
+daysUntilStale: 60
+# Number of days of inactivity before a stale issue is closed
+daysUntilClose: 7
+# Issues with these labels will never be considered stale
+exemptLabels:
+  - pinned
+  - security
+  - bug
+  - enhancement
+# Label to use when marking an issue as stale
+staleLabel: wontfix
+# Comment to post when marking an issue as stale
+markComment: >
+  This issue has been automatically marked as stale due to inactivity. It will be closed if no further activity occurs within 7 days.
+# Comment to post when closing a stale issue
+closeComment: >
+  This issue has been automatically closed due to inactivity. Please feel free to reopen it if needed.
