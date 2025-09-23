@@ -6,7 +6,7 @@
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about anything tech-related
 - 📫 How to reach me: nabilathaillah33@gmail.com
-- ⚡ Fun fact: [An interesting fact about yourself]
+- ⚡ Fun fact: I love exploring new programming languages and frameworks.
 
 ## 🛠️ My Tech Stack
 <p align="left">
