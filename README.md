@@ -32,8 +32,6 @@
 
 ## 🔗 Connect with me
 <p align="left">
-  <a href="https://instagram.com/nabiryuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://tiktok.com/@shadow_nekorei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/nabil-athaillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <!-- Add more social links as needed -->
 </p>
