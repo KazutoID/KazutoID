@@ -103,6 +103,15 @@ I'm a passionate software developer with a love for creating elegant solutions t
   <a href="https://github.com/Kiritocroft/Portofolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kiritocroft&repo=Portofolio&theme=tokyonight&hide_border=true" alt="Portfolio Project" />
   </a>
+  
+  <br/>
+  
+  <a href="https://kiritocroft.github.io/Portofolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-6e5494?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/Kiritocroft/Portofolio" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
 </div>
 
 ## 🐍 Contribution Graph
