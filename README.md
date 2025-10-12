@@ -106,7 +106,7 @@ I'm a passionate software developer with a love for creating elegant solutions t
   
   <br/>
   
-  <a href="https://portofolio-b8otayi2e-kiritocrofts-projects.vercel.app" target="_blank">
+  <a href="https://portofolio-bice-alpha.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-6e5494?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
   <a href="https://github.com/Kiritocroft/Portofolio" target="_blank">
