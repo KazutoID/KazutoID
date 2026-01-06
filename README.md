@@ -15,9 +15,20 @@ Nabil Athaillah — Full‑Stack Developer (Indonesia)
 </div>
 
 **Contact**
-- Email: nabilathaillah33@gmail.com
-- LinkedIn: https://linkedin.com/in/nabil-athaillah
-- GitHub: https://github.com/kiritocroft
+
+<p align="left">
+  <a href="mailto:nabilathaillah33@gmail.com">
+    <img src="assets/contact-email.svg" alt="Email" height="70" />
+  </a>
+  <br/>
+  <a href="https://linkedin.com/in/nabil-athaillah">
+    <img src="assets/contact-linkedin.svg" alt="LinkedIn" height="70" />
+  </a>
+  <br/>
+  <a href="https://github.com/kiritocroft">
+    <img src="assets/contact-github.svg" alt="GitHub" height="70" />
+  </a>
+</p>
 
 ---
 
@@ -34,7 +45,9 @@ Tools/DevOps: Git, Docker, VS Code
 
 ## Projects
 
-- Portfolio → https://github.com/Kiritocroft/Portofolio
+<a href="https://github.com/Kiritocroft/Portofolio">
+  <img src="assets/portfolio-badge.svg" alt="Portfolio" />
+</a>
 
  
 
