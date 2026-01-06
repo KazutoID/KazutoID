@@ -61,14 +61,8 @@
 ## 🚀 My Recent Projects
 
 <div align="center">
-  <a href="https://github.com/kiritocroft/kiritocroft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiritocroft&repo=kiritocroft&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/kiritocroft/proshop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiritocroft&repo=proshop&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-  <a href="https://github.com/kiritocroft/devcamper-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiritocroft&repo=devcamper-api&theme=tokyonight&hide_border=true" alt="Project 3" />
+  <a href="https://github.com/Kiritocroft/Portofolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiritocroft&repo=Portofolio&theme=tokyonight&hide_border=true" alt="Portfolio Project" />
   </a>
 </div>
 
