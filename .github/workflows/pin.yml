@@ -1,4 +1,4 @@
-name: Generate GitHub Trophy
+name: Generate Portofolio Pin Card
 
 on:
   schedule:
@@ -14,14 +14,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Fetch trophy svg
+      - name: Fetch pin card svg
         run: |
           mkdir -p generated
-          curl -fSL "https://github-profile-trophy.vercel.app/?username=kiritocroft&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" -o generated/trophy.svg || echo "Failed to fetch trophy"
+          curl -fSL "https://github-readme-stats.vercel.app/api/pin/?username=kiritocroft&repo=Portofolio&theme=tokyonight&hide_border=true" -o generated/pin-portofolio.svg || echo "Failed to fetch pin card"
       - name: Commit & Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add generated/trophy.svg || true
-          git commit -m "ci: update trophy" || true
+          git add generated/pin-portofolio.svg || true
+          git commit -m "ci: update Portofolio pin" || true
           git push || true

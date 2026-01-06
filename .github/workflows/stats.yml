@@ -1,42 +1,28 @@
-name: GitHub Stats Card
+name: Generate GitHub Stats
 
 on:
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch:
 
-jobs:
-  update-stats:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v2
-      - uses: anuraghazra/github-readme-stats@master
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_PRIVATE_CONTRIBUTIONS: true
-          COUNT_PRIVATE: true
-          SHOW_ICONS: true
-          THEME: tokyonight
-          HIDE_BORDER: true
-          OUTPUT_PATH: generated/stats.svg
-          
-      - uses: anuraghazra/github-readme-stats@master
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_PRIVATE_CONTRIBUTIONS: true
-          COUNT_PRIVATE: true
-          SHOW_ICONS: true
-          THEME: tokyonight
-          HIDE_BORDER: true
-          CARD_TYPE: "top-langs"
-          OUTPUT_PATH: generated/top-langs.svg
+permissions:
+  contents: write
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Fetch stats svgs
+        run: |
+          mkdir -p generated
+          curl -fSL "https://github-readme-stats.vercel.app/api?username=kiritocroft&show_icons=true&theme=tokyonight&hide_border=true" -o generated/stats.svg || echo "Failed to fetch stats"
+          curl -fSL "https://github-readme-stats.vercel.app/api/top-langs/?username=kiritocroft&layout=compact&theme=tokyonight&hide_border=true" -o generated/top-langs.svg || echo "Failed to fetch top langs"
       - name: Commit & Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A
-          git commit -m "ci: update stats" || exit 0
-          git push
+          git add generated/stats.svg generated/top-langs.svg || true
+          git commit -m "ci: update stats" || true
+          git push || true

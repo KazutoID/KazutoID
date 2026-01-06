@@ -1,4 +1,6 @@
 <div align="center">
+  <h1>Hi, I'm Nabil 👋</h1>
+  <p>Full-Stack Developer</p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=6272A4&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Nabil;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
@@ -55,12 +57,9 @@ I'm a passionate Full-Stack Developer from Indonesia with a love for creating el
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiritocroft&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiritocroft&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kiritocroft&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="generated/stats.svg" alt="GitHub Stats" />
+  <img src="generated/top-langs.svg" alt="Top Languages" />
+  <img src="generated/streak.svg" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -69,7 +68,7 @@ I'm a passionate Full-Stack Developer from Indonesia with a love for creating el
 
 <div align="center">
   <a href="https://github.com/Kiritocroft/Portofolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiritocroft&repo=Portofolio&theme=tokyonight&hide_border=true" alt="Portfolio Project" />
+    <img src="generated/pin-portofolio.svg" alt="Portfolio Project" />
   </a>
 </div>
 
@@ -88,7 +87,7 @@ I'm a passionate Full-Stack Developer from Indonesia with a love for creating el
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiritocroft&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="generated/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 <br/>

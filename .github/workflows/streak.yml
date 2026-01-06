@@ -1,28 +1,27 @@
-name: GitHub Streak Stats
+name: Generate GitHub Streak Stats
 
 on:
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch:
 
-jobs:
-  update-streak:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v2
-      - uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          user: kiritocroft
-          theme: tokyonight
-          hide_border: true
-          OUTPUT: generated/streak.svg
+permissions:
+  contents: write
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Fetch streak svg
+        run: |
+          mkdir -p generated
+          curl -fSL "https://streak-stats.demolab.com?user=kiritocroft&theme=tokyonight&hide_border=true" -o generated/streak.svg || echo "Failed to fetch streak"
       - name: Commit & Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A
-          git commit -m "ci: update streak" || exit 0
-          git push
+          git add generated/streak.svg || true
+          git commit -m "ci: update streak" || true
+          git push || true
