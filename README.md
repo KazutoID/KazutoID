@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Nabil 👋</h1>
-  <h3>A passionate Full-Stack Developer from Indonesia.</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=6272A4&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Nabil;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,50 +14,58 @@
   </a>
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <p>
-        I'm a passionate and results-driven Software Developer with a knack for building elegant and efficient solutions. My journey in technology is fueled by a relentless curiosity and a desire to leverage code to create a meaningful impact.
-      </p>
-      <ul>
-        <li>🔭 I’m currently exploring new horizons in <b>AI and Machine Learning</b>.</li>
-        <li>🌱 I’m currently mastering <b>advanced full-stack development techniques</b>.</li>
-        <li>💬 Ask me about <b>React, Node.js, Python</b>, or anything tech-related!</li>
-      </ul>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding" width="100%" />
-    </td>
-  </tr>
-</table>
+<br/>
 
-## 🛠️ My Tech Stack
+## 👨‍💻 About Me
+
+I'm a passionate Full-Stack Developer from Indonesia with a love for creating elegant and efficient solutions. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+
+- 🔭 I'm currently working on **AI and Machine Learning projects**
+- 🌱 I'm learning **advanced full-stack development techniques**
+- 💬 Ask me about **React, Node.js, Python, or anything tech-related!**
+- ⚡ Fun fact: I love exploring new technologies and contributing to open source
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kiritocroft&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiritocroft&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
-## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="generated/stats.svg" alt="GitHub Stats" />
-  <img src="generated/top-langs.svg" alt="Top Languages" />
-  <img src="generated/streak.svg" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kiritocroft&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🚀 My Recent Projects
+<br/>
+
+## 🚀 Featured Project
 
 <div align="center">
   <a href="https://github.com/Kiritocroft/Portofolio">
@@ -66,17 +73,27 @@
   </a>
 </div>
 
+**Portfolio Website** - A modern personal portfolio built with Next.js, React, and Tailwind CSS. Features an admin panel, database integration, and responsive design.
+
+<br/>
+
 ## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kiritocroft/kiritocroft/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
+<br/>
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="generated/trophy.svg" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kiritocroft&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
+
+<br/>
+
+## 📈 Profile Stats
 
 <div align="center">
   <p>
@@ -89,13 +106,6 @@
     </a>
   </p>
   
-  <h3>Thanks for stopping by!</h3>
+  <h3>⚡ Thanks for visiting my profile!</h3>
+  <p>Feel free to connect with me or check out my projects!</p>
 </div>
-
-<!-- 
-Note: To make this profile README work, you need to:
-1. Create a repository with the same name as your GitHub username
-2. Place this README.md file in that repository
-3. Replace "kiritocroft" with your actual GitHub username
-4. Update the social links, tech stack, and personal information
--->
