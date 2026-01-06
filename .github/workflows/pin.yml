@@ -17,7 +17,11 @@ jobs:
       - name: Fetch pin card svg
         run: |
           mkdir -p generated
-          curl -fSL "https://github-readme-stats.vercel.app/api/pin/?username=kiritocroft&repo=Portofolio&theme=tokyonight&hide_border=true" -o generated/pin-portofolio.svg || echo "Failed to fetch pin card"
+          if ! curl -fsSL "https://github-readme-stats.vercel.app/api/pin/?username=kiritocroft&repo=Portofolio&theme=tokyonight&hide_border=true" -o generated/pin-portofolio.svg; then
+            cat > generated/pin-portofolio.svg <<'SVG'
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="110"><rect width="100%" height="100%" fill="#1a1b27"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#c0c8ff" font-family="Verdana" font-size="16">Pin card unavailable — retry later</text></svg>
+SVG
+          fi
       - name: Commit & Push
         run: |
           git config --global user.name 'github-actions[bot]'
