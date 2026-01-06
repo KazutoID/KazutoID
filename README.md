@@ -91,7 +91,7 @@ I'm a passionate and results-driven Software Developer with a knack for building
   <br/>
   
   <a href="https://github.com/kiritocroft">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kiritocroft&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img width="70%" src="https://streak-stats.demolab.com/?user=kiritocroft&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
   
   <br/>
