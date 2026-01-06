@@ -1,0 +1,32 @@
+name: GitHub Stats Card
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: anuraghazra/github-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_PRIVATE_CONTRIBUTIONS: true
+          COUNT_PRIVATE: true
+          SHOW_ICONS: true
+          THEME: tokyonight
+          HIDE_BORDER: true
+          OUTPUT_PATH: generated/stats.svg
+          
+      - uses: anuraghazra/github-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_PRIVATE_CONTRIBUTIONS: true
+          COUNT_PRIVATE: true
+          SHOW_ICONS: true
+          THEME: tokyonight
+          HIDE_BORDER: true
+          CARD_TYPE: "top-langs"
+          OUTPUT_PATH: generated/top-langs.svg

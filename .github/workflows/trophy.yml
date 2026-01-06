@@ -1,0 +1,20 @@
+name: GitHub Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  update-trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ryo-ma/github-profile-trophy@v1
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: tokyonight
+          NO_FRAME: true
+          NO_BG: true
+          MARGIN_W: 4
+          OUTPUT_PATH: generated/trophy.svg

@@ -53,9 +53,9 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiritocroft&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiritocroft&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=kiritocroft&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="generated/stats.svg" alt="GitHub Stats" />
+  <img src="generated/top-langs.svg" alt="Top Languages" />
+  <img src="generated/streak.svg" alt="GitHub Streak" />
 </div>
 
 ## 🚀 My Recent Projects
@@ -81,7 +81,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiritocroft&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="generated/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
