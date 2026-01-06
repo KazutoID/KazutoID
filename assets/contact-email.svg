@@ -25,11 +25,11 @@
   </text>
 
   <text x="20" y="50" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="18" fill="#00ff9f" font-weight="bold" filter="url(#glow)">
-    ./send_email<tspan fill="#00eaff">.sh</tspan>
+    ./nabilathaillah33@gmail.com
   </text>
 
   <!-- Blinking Cursor -->
-  <rect x="180" y="35" width="10" height="18" fill="#00ff9f">
+  <rect x="300" y="35" width="10" height="18" fill="#00ff9f">
     <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
   </rect>
 </svg>
