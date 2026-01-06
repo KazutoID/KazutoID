@@ -5,7 +5,7 @@
 Nabil Athaillah — Full‑Stack Developer (Indonesia)
 
 > Focus: Next.js, React, Node.js, TypeScript, Python
-> Interests: Security, performance, clean architecture
+> Interests:  Web architecture, performance optimization, scalable systems, maintainable code
 ```
 
 <div align="center">
@@ -26,7 +26,8 @@ Nabil Athaillah — Full‑Stack Developer (Indonesia)
 ```
 Languages   : JavaScript, TypeScript, Python
 Frontend    : React, Next.js, Tailwind CSS
-Backend     : Node.js, Express
+Backend     : Node.js, Express, REST APIs
+Auth/Security: JWT, OAuth (basic), password hashing
 Databases   : MongoDB, MySQL
 Tools/DevOps: Git, Docker, VS Code
 ```
