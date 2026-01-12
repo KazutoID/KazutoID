@@ -1,6 +1,6 @@
 ```
 ┌──────────────────────────────────────────────────────────┐
-│ kiritocroft@github:~$ whoami                            │
+│ kiritocroft@github:~$ whoami                             │
 └──────────────────────────────────────────────────────────┘
 Nabil Athaillah — Full‑Stack Developer (Indonesia)
 
