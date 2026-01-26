@@ -35,11 +35,11 @@ Nabil Athaillah — Full‑Stack Developer (Indonesia)
 ## Toolbox
 
 ```
-Languages   : JavaScript, TypeScript, Python
+Languages   : JavaScript, TypeScript, Python, PHP
 Frontend    : React, Next.js, Tailwind CSS
-Backend     : Node.js, Express, REST APIs
-Auth/Security: JWT, OAuth (basic), password hashing
-Databases   : MongoDB, MySQL
+Backend     : Node.js, Express, Laravel, REST APIs
+Auth/Security: JWT, OAuth (basic)
+Databases   : MongoDB, MySQL, Supabase
 Tools/DevOps: Git, Docker, VS Code
 ```
 
