@@ -34,7 +34,7 @@
   </text>
 
   <!-- Blinking Cursor -->
-  <rect x="200" y="48" width="10" height="20" fill="#ff7eb6">
+  <rect x="210" y="48" width="10" height="20" fill="#ff7eb6">
     <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
   </rect>
 
