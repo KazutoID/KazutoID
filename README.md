@@ -46,7 +46,7 @@ Tools/DevOps: Git, Docker, VS Code
 ## Projects
 
 <p align="left">
-  <a href="https://github.com/Kiritocroft/Portofolio">
+  <a href="https://github.com/Kiritocroft/Kazuto-Portofolio">
     <img src="assets/portfolio-badge.svg" alt="Portfolio" />
   </a>
   <br/>
