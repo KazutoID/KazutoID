@@ -64,7 +64,7 @@ Nabil Athaillah — Full‑Stack Developer (Indonesia)
 
 | **🏆 Commit Streak** | **💻 Top Languages** |
 | :---: | :---: |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=XyRoHabibi&theme=tokyonight&hide_border=true&background=0d1117&ring=7000ff&fire=3b82f6&currStreakLabel=3b82f6" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyRoHabibi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7000ff&langs_count=6" height="160" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiritocroft&theme=tokyonight&hide_border=true&background=0d1117&ring=7000ff&fire=3b82f6&currStreakLabel=3b82f6" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiritocroft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7000ff&langs_count=6" height="160" /> |
 
 </div>
 
