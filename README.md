@@ -5,45 +5,56 @@
 
 <br/>
 
-```
-┌──────────────────────────────────────────────────────────┐
-│ kiritocroft@github:~$ whoami                             │
-└──────────────────────────────────────────────────────────┘
-Nabil Athaillah — Full‑Stack Developer (Indonesia)
 
-> Focus: Next.js, React, Node.js, TypeScript, Python
-> Interests:  Web architecture, performance optimization, scalable systems, maintainable code
+```console
+┌────────────────────────────────────────────────────────────────────────┐
+│ kiritocroft@github:~$ whoami                                           │
+│ Nabil Athaillah — Full‑Stack Developer (Indonesia)                     │
+│                                                                        │
+│ > Focus: Next.js, React, Node.js, TypeScript, Python                   │
+│ > Interests: Web architecture, scalable systems, maintainable code     │
+│ > Motto: "Code is read more often than it is written."                 │
+└────────────────────────────────────────────────────────────────────────┘
 ```
-
-<br/>
 
 <!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=kiritocroft&color=7000ff&style=for-the-badge&label=PROFILE+VIEWS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kiritocroft&color=7000ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## 🛠️ Toolbox
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
+### 💻 Frontend
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
+### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+<br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
+### 🎮 Desktop, Systems & Game Dev
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Windows API](https://img.shields.io/badge/Windows_API-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![ImGui](https://img.shields.io/badge/ImGui-%2361DAFB.svg?style=for-the-badge&logo=opengl&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-%23000000.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -52,15 +63,13 @@ Nabil Athaillah — Full‑Stack Developer (Indonesia)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kiritocroft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7000ff&icon_color=3b82f6&text_color=c9d1d9&count_private=true&include_all_commits=true" height="180" />
 
-</div>
-
-<div align="center">
+<br/>
 
 | **🏆 Commit Streak** | **💻 Top Languages** |
 | :---: | :---: |
@@ -70,53 +79,51 @@ Nabil Athaillah — Full‑Stack Developer (Indonesia)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<p align="left">
+<div align="center">
   <a href="https://github.com/Kiritocroft/Kazuto-Portofolio">
-    <img src="assets/portfolio-badge.svg" alt="Portfolio" />
+    <img src="assets/portfolio-badge.svg" alt="Portfolio" height="80" />
   </a>
-  <br/>
-  <a href="https://github.com/Kiritocroft/MyKisah">
-    <img src="assets/mykisah-badge.svg" alt="MyKisah" />
-  </a>
-</p>
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kiritocroft/kiritocroft/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <a href="https://github.com/kiritocroft">
+    <img src="https://raw.githubusercontent.com/kiritocroft/kiritocroft/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  </a>
   <br/>
   <em>Generated by GitHub Actions — updated daily.</em>
 </div>
 
 ---
 
-## 📬 Contact
+## 📬 Let's Connect
 
-<p align="left">
+<div align="center">
   <a href="mailto:nabilathaillah33@gmail.com">
     <img src="assets/contact-email.svg" alt="Email" height="70" />
   </a>
-  <br/>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nabil-athaillah">
     <img src="assets/contact-linkedin.svg" alt="LinkedIn" height="70" />
   </a>
-  <br/>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/kiritocroft">
     <img src="assets/contact-github.svg" alt="GitHub" height="70" />
   </a>
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-```
-> echo "Thanks for stopping by!"
-Thanks for stopping by!
+```console
+> echo "Thanks for stopping by! Keep coding & stay awesome. 🚀"
+Thanks for stopping by! Keep coding & stay awesome. 🚀
 ```
 
 </div>
