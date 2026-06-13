@@ -20,7 +20,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
-          github_user_name: kiritocroft
+          github_user_name: KazutoID
           # Elegant theme with purple accent (matching GitHub profile theme)
           outputs: |
             dist/github-contribution-grid-snake.svg
