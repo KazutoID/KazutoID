@@ -1,5 +1,7 @@
 <div align="center">
 
+> **Note:** This is a temporary second account because my main account (@Kiritocroft) has been shadow-banned.
+
 <!-- Animated Hacker Banner -->
 <img src="assets/hacker-banner.svg" alt="Hacker Banner" width="100%" />
 
