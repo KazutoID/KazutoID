@@ -21,18 +21,18 @@
 
   <!-- glitch layers -->
   <text x="60" y="96" font-family="Consolas, Monaco, Menlo, monospace" font-size="28" fill="#00eaff" opacity="0.18">
-    kiritocroft@github:~$ echo "Welcome to my profile!"
+    KazutoID@github:~$ echo "Welcome to my profile!"
     <animate attributeName="x" values="58;62;59;61;60" dur="0.6s" repeatCount="indefinite"/>
   </text>
   <text x="60" y="96" font-family="Consolas, Monaco, Menlo, monospace" font-size="28" fill="#ff00ff" opacity="0.12">
-    kiritocroft@github:~$ echo "Welcome to my profile!"
+    KazutoID@github:~$ echo "Welcome to my profile!"
     <animate attributeName="x" values="62;58;61;59;60" dur="0.6s" repeatCount="indefinite"/>
   </text>
 
   <!-- main typed text with reveal mask -->
   <g mask="url(#reveal)">
     <text x="60" y="96" font-family="Consolas, Monaco, Menlo, monospace" font-size="28" fill="#00ff9f">
-      kiritocroft@github:~$ echo "Welcome to my profile!"
+      KazutoID@github:~$ echo "Welcome to my profile!"
     </text>
     <text x="60" y="132" font-family="Consolas, Monaco, Menlo, monospace" font-size="18" fill="#c0c8ff" opacity="0.8">
       Full-Stack Developer • Next.js • Node.js • TypeScript

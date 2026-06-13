@@ -84,7 +84,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/KazutoID/Kazuto-Portofolio">
+  <a href="https://kazuto-portofolio.vercel.app">
     <img src="assets/portfolio-badge.svg" alt="Portfolio" height="80" />
   </a>
 </div>
